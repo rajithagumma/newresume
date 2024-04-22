@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image:url(background1.avif);
+    background-size: cover;
+    background-position: center;
+}
+#bio{
+    background-color: white;
+    height:100vh;
+    width: 50vw;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    margin-left:25%;
+}
+#biodata{
+    background-color:#19ace6f3;
+    width:42vw;
+    height:6vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left:7%;
+    margin-bottom:2%;
+
+}
+#details{
+    background-color:skyblue;
+    width:36vw;
+    height:5vh;
+    justify-content: center;
+    align-items:left;
+    text-align: center;
+    margin-left:7%;
+    display: inline-block;
+}
+#photo{
+    text-align: center;
+    background-color:white;
+    height:12vh;
+    width: 5vw;
+    display: inline-block;
+    border:black solid;
+    margin-left: 1%;
+}
+#personal{
+    margin-left: 7%;
+    display: inline-block;
+}
+#mobile{
+    margin-left: 10%;
+    display: inline-block;
+}
+#education{
+    background-color:skyblue;
+    width:42vw;
+    height:6vh;
+    justify-content: center;
+    align-items:left;
+    text-align: center;
+    margin-left:7%;
+    display: inline-block;
+}
+#university{
+    margin-left: 7%;
+    display: inline-block;
+}
+#year{
+    margin-left: 7%;
+    display: inline-block;
+}
+#info{
+    margin-left:2%;
+    display: inline-block;
+}
+#info1{
+    margin-left:10%;
+    display: inline-block;
+
+}
+#course{
+    margin-left: 2em;
+    display: inline-block;
+
+}
+#experience{
+    background-color:skyblue;
+    width:42vw;
+    height:6vh;
+    justify-content: center;
+    align-items:left;
+    text-align: center;
+    margin-left:7%;
+    margin-top: 3%;
+    display: inline-block;
+}
+#organisation{
+    margin-left:7%;
+    display: inline-block;
+}
+#year1{
+    margin-left: 10%;
+    display: inline-block;
+}
